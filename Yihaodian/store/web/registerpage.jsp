@@ -1,3 +1,11 @@
+<%--
+Created by IntelliJ IDEA.
+User: 16321
+Date: 2020/6/18
+Time: 15:19
+To change this template use File | Settings | File Templates.
+--%>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <!DOCTYPE html>
 <html>
 <head lang="en">
@@ -56,7 +64,6 @@
 </section>
 <footer id="footNav">
     <p><a href="#">沪ICP备13044278号</a>|&nbsp;&nbsp;合字B1.B2-20130004&nbsp;&nbsp;|<a href="#">营业执照</a></p>
-
     <p>Copyright © 1号店网上超市 2007-2016，All Rights Reserved</p>
 </footer>
 </body>

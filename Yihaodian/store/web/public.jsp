@@ -1,10 +1,10 @@
 <!DOCTYPE html>
+<%@ page language="java" import="java.util.*" pageEncoding="UTF-8"%>
 <html>
 <head lang="en">
     <meta charset="UTF-8">
     <title>一号店</title>
     <link type="text/css" rel="stylesheet" href="%20css/style.css"/>
-
 </head>
 <body>
 <!--网页头部-->
